@@ -1,6 +1,8 @@
 ### otoneko_mk8d
-
-## URLs
-- https://twitter.com/otnk_mk8d
-- https://misskey.io/@otnk_mk8d
-- https://www.youtube.com/@otnk_mk8d
+## SNS
+### Twitter
+https://twitter.com/otnk_mk8d
+### Misskey
+https://misskey.io/@otnk_mk8d
+### YouTube
+https://www.youtube.com/@otnk_mk8d
