@@ -1,5 +1,5 @@
 ### otoneko_mk8d
-## SNS
+## URLs
 ### Twitter
 https://twitter.com/otnk_mk8d
 ### Misskey
