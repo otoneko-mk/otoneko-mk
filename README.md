@@ -5,4 +5,4 @@ https://twitter.com/otnk_mk8d
 ### Misskey
 https://misskey.io/@otnk_mk8d
 ### YouTube
-https://www.youtube.com/@otnk_mk8d
+https://youtube.com/@otnk_mk8d
