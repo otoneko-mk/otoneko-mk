@@ -1,4 +1,4 @@
-# otoneko_mk8d
+# otoneko_mk
 ## Contacts
 - [**Discord**](https://discord.com/users/845949790806343691)
 - [**Discord Sub**](https://discord.com/users/1068416690020425738)
