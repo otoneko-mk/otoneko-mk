@@ -7,6 +7,7 @@
 ## SNS
 - [**X (Twitter)**](https://twitter.com/otoneko_mk)
 - [**YouTube**](https://youtube.com/@otoneko_mk)
-- [Misskey](https://misskey.io/@otnk_mk8d)（動かしていません...）
-- [Instagram](https://instagram.com/otoneko_mk/)（動かしていません...）
-- [Threads](https://threads.net/@otoneko_mk)（動かしていません...）
+- [Misskey](https://misskey.io/@otnk_mk8d)
+- [Instagram](https://instagram.com/otoneko_mk/)
+- [Threads](https://threads.net/@otoneko_mk)
+- [Bluesky](https://bsky.app/profile/otoneko-mk.bsky.social)
