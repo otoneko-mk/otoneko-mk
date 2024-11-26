@@ -1,16 +1,16 @@
 <div align="center">
 <h1>otoneko_mk</h1>
-<img src="./icons/otoneko.webp" width="200" />
+<img src="./icons/otoneko.webp" width="120" />
 </div>
-
+<br>
 <div align="center">
 <h2>🔗 Links</h2>
 <table>
     <tr align="center">
-        <th rowspan="4">Social Media</th>
-        <td width="100"><b>X(Twitter)</b></td>
-        <td width="100"><b>YouTube</b></td>
-        <td width="100">Bluesky</td>
+        <th rowspan="4" width="120">Social Media</th>
+        <td width="120"><b>X(Twitter)</b></td>
+        <td width="120"><b>YouTube</b></td>
+        <td width="120">Bluesky</td>
     </tr>
     <tr align="center">
         <td><a href="https://x.com/otoneko_mk"><img src="https://skillicons.dev/icons?i=twitter" /></a></td>
@@ -18,9 +18,9 @@
         <td><a href="https://bsky.app/profile/otoneko-mk.bsky.social"><img src="./icons/bluesky.webp" width="50"/></a></td>
     </tr>
     <tr align="center">
-        <td width="100">Misskey</td>
-        <td width="100">Instagram</td>
-        <td width="100">Threads</td>
+        <td width="120">Misskey.io</td>
+        <td width="120">Instagram</td>
+        <td width="120">Threads</td>
     </tr>
     <tr align="center">
         <td><a href="https://misskey.io/@otnk_mk8d"><img src="https://skillicons.dev/icons?i=misskey"/></a></td>
@@ -29,21 +29,21 @@
     </tr>
 	<tr align="center">
         <th rowspan="2">Contacts</th>
-        <td rowspan="2"><b>Discord</b><a href="https://discord.com/"><img src="https://skillicons.dev/icons?i=discord" /></a></td>
-        <td width="100"><b>Subneko</b></td>
-        <td width="100">otoneko</td>
+        <td rowspan="2"><b>Discord</b><a href="https://discord.com/"><br><img src="https://skillicons.dev/icons?i=discord" /></a></td>
+        <td width="120"><b>Subneko</b></td>
+        <td width="120">otoneko</td>
     </tr>
     <tr align="center">
         <td><a href="https://discord.com/users/1068416690020425738"><img src="./icons/subneko.webp" width="50"/></a></td>
-        <td><a href="https://discord.com/users/8459497901006343691"><img src="./icons/otoneko.webp" width="50"/></a></td>
+        <td><a href="https://discord.com/users/8459497901206343691"><img src="./icons/otoneko.webp" width="50"/></a></td>
     </tr>
-    <tr align="center">
+    <tr align="center" height="70">
         <th>Website</th>
-    	<td colspan="3"><a href="https://otoneko-mk.com"><b> 🌐 otoneko-mk.com</b></a></td>
+    	<td colspan="3"><a href="https://otoneko-mk.com"><b>🌐 otoneko-mk.com</b></a></td>
     </tr>
 </table>
 </div>
-
+<br>
 <div align="center">
 <h2>💻 Skills in Use & Learning</h2>
 <table>
@@ -63,7 +63,7 @@
         <td><a href="https://www.php.net/"><img src="https://skillicons.dev/icons?i=php" /></a></td>
     </tr>
     <tr align="center">
-        <th rowspan="2">Frameworks / Environments</th>
+        <th rowspan="2">Frameworks /<br>Environments</th>
         <td width="100"><b>Node.js</b></td>
         <td width="100"><b>discord.js</b></td>
         <td width="100"><b>MongoDB</b></td>
@@ -92,7 +92,7 @@
     </tr>
 </table>
 </div>
-
+<br>
 <div>
 <h2 align="center">🔧 Projects in Development</h2>
 <ul>
