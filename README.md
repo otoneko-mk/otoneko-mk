@@ -47,7 +47,7 @@
 <div align="center">
 <h2>💻 Skills in Use & Learning</h2>
 <table>
-    <tr>
+    <tr align="center">
         <th rowspan="2">Languages</th>
         <td width="100"><b>HTML</b></td>
         <td width="100"><b>CSS</b></td>
