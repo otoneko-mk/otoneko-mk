@@ -10,9 +10,9 @@
     </tr>
     <tr></tr>
     <tr align="center">
-        <td width="80"><b>X(Twitter)</b></td>
-        <td width="80"><b>YouTube</b></td>
-        <td width="80">Bluesky</td>
+        <td width="100"><b>X(Twitter)</b></td>
+        <td width="100"><b>YouTube</b></td>
+        <td width="100">Bluesky</td>
     </tr>
     <tr align="center">
         <td><a href="https://x.com/otoneko_mk"><img src="https://skillicons.dev/icons?i=twitter" /></a></td>
@@ -20,9 +20,9 @@
         <td><a href="https://bsky.app/profile/otoneko-mk.bsky.social"><img src="./icons/bluesky.webp" width="50"/></a></td>
     </tr>
     <tr align="center">
-        <td width="80">Misskey</td>
-        <td width="80">Instagram</td>
-        <td width="80">Threads</td>
+        <td width="100">Misskey</td>
+        <td width="100">Instagram</td>
+        <td width="100">Threads</td>
     </tr>
     <tr align="center">
         <td><a href="https://misskey.io/@otnk_mk8d"><img src="https://skillicons.dev/icons?i=misskey"/></a></td>
@@ -38,12 +38,12 @@
 	</tr>
 	<tr></tr>
     <tr align="center">
-        <td width="80"><b>Subneko</b></td>
-        <td width="80">otoneko</td>
+        <td width="100"><b>Subneko</b></td>
+        <td width="100">otoneko</td>
     </tr>
     <tr align="center">
         <td><a href="https://discord.com/users/1068416690020425738"><img src="./icons/subneko.webp" width="50"/></a></td>
-        <td><a href="https://discord.com/users/845949790806343691"><img src="./icons/otoneko.webp" width="50"/></a></td>
+        <td><a href="https://discord.com/users/8459497901006343691"><img src="./icons/otoneko.webp" width="50"/></a></td>
     </tr>
     <tr>
         <th rowspan="5">Website</th>
@@ -63,11 +63,11 @@
     </tr>
     <tr></tr>
     <tr align="center">
-        <td width="80"><b>HTML</b></td>
-        <td width="80"><b>CSS</b></td>
-        <td width="80"><b>JavaScript</b></td>
-        <td width="80"><b>Python</b></td>
-        <td width="80"><b>PHP</b></td>
+        <td width="100"><b>HTML</b></td>
+        <td width="100"><b>CSS</b></td>
+        <td width="100"><b>JavaScript</b></td>
+        <td width="100"><b>Python</b></td>
+        <td width="100"><b>PHP</b></td>
     </tr>
     <tr align="center">
         <td><a href="https://developer.mozilla.org/ja/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" /></a></td>
@@ -81,9 +81,9 @@
     </tr>
     <tr></tr>
     <tr align="center">
-        <td width="80"><b>Node.js</b></td>
-        <td width="80"><b>discord.js</b></td>
-        <td width="80"><b>MongoDB</b></td>
+        <td width="100"><b>Node.js</b></td>
+        <td width="100"><b>discord.js</b></td>
+        <td width="100"><b>MongoDB</b></td>
         <td colspan="2"></td>
     </tr>
     <tr align="center">
@@ -97,11 +97,11 @@
     </tr>
     <tr></tr>
     <tr align="center">
-        <td width="80"><b>VSCode</b></td>
-        <td width="80"><b>GitHub</b></td>
-        <td width="80"><b>CloudFlare</b></td>
-        <td width="80"><b>Windows</b></td>
-        <td width="80"><b>Linux</b></td>
+        <td width="100"><b>VSCode</b></td>
+        <td width="100"><b>GitHub</b></td>
+        <td width="100"><b>CloudFlare</b></td>
+        <td width="100"><b>Windows</b></td>
+        <td width="100"><b>Linux</b></td>
     </tr>
     <tr align="center">
         <td><a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" /></a></td>
