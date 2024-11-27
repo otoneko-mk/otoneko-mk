@@ -1,6 +1,6 @@
 <div align="center">
 <h1>otoneko_mk</h1>
-<img src="./icons/otoneko.webp" width="120" />
+<img src="./icons/otoneko.webp" width="150" />
 </div>
 <br>
 <div align="center">
@@ -107,4 +107,22 @@
         </ul>
     </li>
 </ul>
+</div>
+<br>
+<div align="center">
+<h2>🤝 Special Thanks</h2>
+<table>
+    <tr align="center">
+        <td rowspan="3" width="150"><img src="./icons/zense.webp" width="100"/><br><b><ruby>前<rt>ぜん</rt><ruby>世<rt>せ</rt></ruby></ruby> (Zense)</b></td>
+        <td colspan="2" height="75"><b>Illustrator / Designer</b></td>
+    </tr>
+    <tr align="center">
+        <td><b>X(Twitter)</b></td>
+        <td><b>Bluesky</b></td>
+    </tr>
+    <tr align="center">
+        <td><a href="https://x.com/otoneko_mk"><img src="https://skillicons.dev/icons?i=twitter" /></a><br>@ze0n00se</td>
+        <td><a href="https://bsky.app/profile/ze0n00se.bsky.social"><img src="./icons/bluesky.webp" width="50" /></a><br>@ze0n00se.bsky.social</td>
+    </tr>
+</table>
 </div>
