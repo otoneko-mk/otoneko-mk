@@ -121,8 +121,8 @@
         <td><b>Bluesky</b></td>
     </tr>
     <tr align="center">
-        <td><a href="https://x.com/otoneko_mk"><img src="https://skillicons.dev/icons?i=twitter" /></a><br>@ze0n00se</td>
-        <td><a href="https://bsky.app/profile/ze0n00se.bsky.social"><img src="./icons/bluesky.webp" width="50" /></a><br>@ze0n00se.bsky.social</td>
+        <td><a href="https://x.com/otoneko_mk"><img src="https://skillicons.dev/icons?i=twitter" /><br>@ze0n00se</a></td>
+        <td><a href="https://bsky.app/profile/ze0n00se.bsky.social"><img src="./icons/bluesky.webp" width="50" /><br>@ze0n00se.bsky.social</a></td>
     </tr>
 </table>
 </div>
