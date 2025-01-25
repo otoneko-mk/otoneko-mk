@@ -45,7 +45,7 @@
 </div>
 <br>
 <div align="center">
-<h2>💻 Skills in Use & Learning</h2>
+<h2>💻 Skills (Learning)</h2>
 <table>
     <tr align="center">
         <th rowspan="2">Languages</th>
@@ -53,7 +53,7 @@
         <td width="100"><b>CSS</b></td>
         <td width="100"><b>JavaScript</b></td>
         <td width="100"><b>Python</b></td>
-        <td width="100"><b>PHP</b></td>
+        <td width="100">PHP</td>
     </tr>
     <tr align="center">
         <td><a href="https://developer.mozilla.org/ja/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" /></a></td>
@@ -81,7 +81,7 @@
         <td width="100"><b>GitHub</b></td>
         <td width="100"><b>CloudFlare</b></td>
         <td width="100"><b>Windows</b></td>
-        <td width="100"><b>Linux</b></td>
+        <td width="100">Linux</td>
     </tr>
     <tr align="center">
         <td><a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" /></a></td>
@@ -94,7 +94,7 @@
 </div>
 <br>
 <div>
-<h2 align="center">🔧 Projects in Development</h2>
+<h2 align="center">🔧 Projects</h2>
 <ul>
     <li><b>otoneko-mk.com</b> (Website)</li>
     <li><b>Botneko</b> (Discord Bot)</li>
@@ -113,16 +113,16 @@
 <h2>🤝 Special Thanks</h2>
 <table>
     <tr align="center">
-        <td rowspan="3" width="150"><img src="./icons/zense.webp" width="100"/><br><b><ruby>前<rt>ぜん</rt><ruby>世<rt>せ</rt></ruby></ruby> (Zense)</b></td>
+        <td rowspan="3" width="150"><img src="./icons/kurose.webp" width="100"/><br><b><ruby>黑<rt>くろ</rt><ruby>瀬<rt>せ</rt></ruby></ruby> (Kurose)</b></td>
         <td colspan="2" height="75"><b>Illustrator / Designer</b></td>
     </tr>
     <tr align="center">
         <td><b>X(Twitter)</b></td>
-        <td><b>Bluesky</b></td>
+        <td><b>lit.link</b></td>
     </tr>
     <tr align="center">
-        <td><a href="https://x.com/otoneko_mk"><img src="https://skillicons.dev/icons?i=twitter" /><br>@ze0n00se</a></td>
-        <td><a href="https://bsky.app/profile/ze0n00se.bsky.social"><img src="./icons/bluesky.webp" width="50" /><br>@ze0n00se.bsky.social</a></td>
+        <td><a href="https://x.com/ku0r00se"><img src="https://skillicons.dev/icons?i=twitter" /><br>@ku0r00se</a></td>
+        <td><a href="https://lit.link/ku0r00se"><img src="./icons/litlink.webp" width="50" /><br>ku0r00se</a></td>
     </tr>
 </table>
 </div>
