@@ -75,7 +75,7 @@
     <tr align="center">
         <td><a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs" /></a></td>
         <td><a href="https://discord.js.org/"><img src="https://skillicons.dev/icons?i=discordjs" /></a></td>
-        <td><a href="https://www.mongodb.com/"><img src="https://skillicons.dev/icons?i=mysql" /></a></td>
+        <td><a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" /></a></td>
         <td><a href="https://www.mongodb.com/"><img src="https://skillicons.dev/icons?i=mongodb" /></a></td>
         <td colspan="2"></td>
     </tr>
@@ -98,22 +98,6 @@
     </tr>
 
 </table>
-</div>
-<br>
-<div>
-<h2 align="center">🔧 Projects</h2>
-<ul>
-    <li><b>otoneko-mk.com</b> (Website)</li>
-    <li><b>Botneko</b> (Discord Bot)</li>
-    <li><a href="https://github.com/otoneko-mk/MK8D-Digital-Num-Font"><b>MK8D-Digital-Num-Font</b></a></li>
-    <li>For my school:
-        <ul>
-            <li>Website</li>
-            <li>JavaScript & Python scripts</li>
-            <li>Tools related to filtering</li>
-        </ul>
-    </li>
-</ul>
 </div>
 <br>
 <div align="center">
