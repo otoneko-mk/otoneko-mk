@@ -14,7 +14,7 @@
     </tr>
     <tr align="center">
         <td><a href="https://x.com/otoneko_mk"><img src="https://skillicons.dev/icons?i=twitter" /></a></td>
-        <td><a href="https://youtube.com/@otoneko_mk"></a><img src="./icons/youtube.svg" width="50" /></td>
+    <td><a href="https://youtube.com/@otoneko_mk"><img src="./icons/youtube.svg" width="50" /></a></td>
         <td><a href="https://bsky.app/profile/otoneko-mk.bsky.social"><img src="./icons/bluesky.webp" width="50"/></a></td>
     </tr>
     <tr align="center">
@@ -90,7 +90,7 @@
     </tr>
     <tr align="center">
         <td><a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" /></a></td>
-        <td><a href="https://github.com/"><img src="https://skillicons.dev/icons?i=figma" /></a></td>
+    <td><a href="https://www.figma.com/"><img src="https://skillicons.dev/icons?i=figma" /></a></td>
         <td><a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" /></a></td>
         <td><a href="https://www.cloudflare.com/"><img src="https://skillicons.dev/icons?i=cloudflare" /></a></td>
         <td><a href="https://www.microsoft.com/ja-jp/windows"><img src="https://skillicons.dev/icons?i=windows" /></a></td>
