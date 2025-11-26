@@ -55,7 +55,6 @@
         <td width="90"><b>TypeScript</b></td>
         <td width="90"><b>PHP</b></td>
         <td width="90"><b>Python</b></td>
-        <td colspan="1"></td>
     </tr>
     <tr align="center">
         <td><a href="https://developer.mozilla.org/ja/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" /></a></td>
@@ -64,7 +63,6 @@
         <td><a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=typescript" /></a></td>
         <td><a href="https://www.php.net/"><img src="https://skillicons.dev/icons?i=php" /></a></td>
         <td><a href="https://python.org/"><img src="https://skillicons.dev/icons?i=py" /></a></td>
-        <td colspan="1"></td>
     </tr>
     <tr align="center">
         <th rowspan="2">Frameworks /<br>Environments</th>
@@ -73,7 +71,7 @@
         <td width="90"><b>React</b></td>
         <td width="90"><b>MySQL</b></td>
         <td width="90"><b>MongoDB</b></td>
-        <td colspan="2"></td>
+        <td colspan="1"></td>
     </tr>
     <tr align="center">
         <td><a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs" /></a></td>
@@ -81,7 +79,7 @@
         <td><a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react" /></a></td>
         <td><a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" /></a></td>
         <td><a href="https://www.mongodb.com/"><img src="https://skillicons.dev/icons?i=mongodb" /></a></td>
-        <td colspan="2"></td>
+        <td colspan="1"></td>
     </tr>
     <tr align="center">
         <th rowspan="2">Tools / Others</th>
