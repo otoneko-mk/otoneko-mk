@@ -1,20 +1,13 @@
 <div align="center">
-<h1>otoneko_mk</h1>
-<img src="./icons/otoneko.webp" width="120" />
-</div>
-<br>
-<div align="center">
 <h2>🔗 Links</h2>
 <table>
     <tr align="center">
         <td width="120"><b>X(Twitter)</b></td>
         <td width="120"><b>YouTube</b></td>
-        <td width="120"><b>Discord</b></td>
     </tr>
     <tr align="center">
         <td><a href="https://x.com/otoneko_mk"><img src="https://skillicons.dev/icons?i=twitter" /></a></td>
         <td><a href="https://youtube.com/@otoneko_mk"><img src="./icons/youtube.svg" width="50" /></a></td>
-        <td><a href="https://discord.com/users/1068416690020425738"><img src="https://skillicons.dev/icons?i=discord" /></a></td>
     </tr>
 </table>
 </div>
