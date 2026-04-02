@@ -2,11 +2,9 @@
 <h2>🔗 Links</h2>
 <table>
     <tr align="center">
-        <td width="120"><b>X(Twitter)</b></td>
         <td width="120"><b>YouTube</b></td>
     </tr>
     <tr align="center">
-        <td><a href="https://x.com/otoneko_mk"><img src="https://skillicons.dev/icons?i=twitter" /></a></td>
         <td><a href="https://youtube.com/@otoneko_mk"><img src="./icons/youtube.svg" width="50" /></a></td>
     </tr>
 </table>
